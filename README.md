@@ -15,3 +15,5 @@ A Pedido do professor, foi feito um relatório da atividade e um diagrama UML de
 `main.java` É o ponto de partida do programa, responsável por executar o código fonte, integrar e chamar a interface gráfica da página inicial da lista de desejos.<br>
 `desejosControllers` O arquivo desejosControllers contém os métodosque que são aplicados a um Desejo, definindo as ações que ele pode executar, como adicionar ou deletar um desejo.<br>
 `desejosInfo` O arquivo desejosInfo contém todos os atributos do objeto Desejo, além de seus métodos getters e setters, que servem para acessar e modificar os valores dos atributos.
+
+> Desenvolvido por: Eduarda Alencar & Davi Lucas
